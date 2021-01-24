@@ -1,0 +1,2 @@
+ with Gradle
+      run: ./gradlew build
